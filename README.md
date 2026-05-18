@@ -3,8 +3,8 @@
 ---
 
 <div align="center">
-  <h2>🌟 WELCOME TO THE TEAM REPOSITORY 🌟</h2>
-  <p><strong>"Great things in business are never done by one person. They're done by a team of people."</strong></p>
+  <h2>🌟 WELCOME TO THE TEAM  🌟</h2>
+  <p><strong>"Great things in Education/Business are never done by one person. They're done by a team of people."</strong></p>
 </div>
 
 > ### 📜 A Heartfelt Welcome from the Project Administrator
