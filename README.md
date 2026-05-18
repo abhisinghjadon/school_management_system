@@ -29,12 +29,12 @@
 >
 > We aren't just writing code to complete a project; we are designing a solution with a massive real-world impact. Our vision is to develop a lightweight, highly optimized, and adaptable system that serves two critical purposes:
 >
-> 1. **For Rural Schools:** Providing a highly cost-effective, straightforward, and low-bandwidth solution that operates flawlessly on standard hardware without expensive overhead[cite: 1].
-> 2. **For Urban Schools:** Delivering a modern, organized, and clean user interface that streamlines complex administrative and academic workflows with maximum speed and zero clutter[cite: 1].
+> 1. **For Rural Schools:** Providing a highly cost-effective, straightforward, and low-bandwidth solution that operates flawlessly on standard hardware without expensive overhead Aligarh.
+> 2. **For Urban Schools:** Delivering a modern, organized, and clean user interface that streamlines complex administrative and academic workflows with maximum speed and zero clutter Aligarh.
 >
 > ### ✨ My Commitment to You
 >
-> As your project administrator and fellow developer, I am fully committed to our shared success. Whether you need structural help, database alignment, or just a fresh pair of eyes to debug your code, my doors are always open[cite: 1].
+> As your project administrator and fellow developer, I am fully committed to our shared success. Whether you need structural help, database alignment, or just a fresh pair of eyes to debug your code, my doors are always open Aligarh.
 >
 > Let’s combine our unique strengths, support one another through every coding challenge, and build a masterpiece that we can all proudly look back on.
 >
